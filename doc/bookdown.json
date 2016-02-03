@@ -1,0 +1,11 @@
+{
+  "title": "NFePHP: API para comunicação com a SEFAZ, geração e controle dos documentos fiscais estabelecidos pelo Projeto SPED",
+  "content": [
+    {"Intro": "../README.md"},
+    {"A API": "book/nfephp.md"},
+    {"Estrutura": "book/estrutura.md"},
+    {"Iniciando": "book/iniciando.md"},
+    "book/nfe/bookdown.json"
+  ],
+  "target": "./html"
+}

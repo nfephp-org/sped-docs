@@ -1,0 +1,5 @@
+{
+    "require": {
+        "phly/bookdown2mkdocs": "^0.1.2"
+    }
+}

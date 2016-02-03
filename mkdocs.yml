@@ -1,0 +1,13 @@
+docs_dir: doc/book
+site_dir: doc/html
+pages:
+    - index.md
+    - { 'A API': nfephp.md }
+    - { Estrutura: estrutura.md }
+    - { Iniciando: iniciando.md }
+    - { sped-nfe: [{ Intro: nfe/intro.md }, { Exemplos: nfe/exemplos.md }, { Referencias: nfe/referencias.md }] }
+theme: readthedocs
+site_name: NFePHP
+site_description: 'NFePHP: API para comunicação com a SEFAZ, geração e controle dos documentos fiscais estabelecidos pelo Projeto SPED'
+repo_url: 'https://github.com/nfephp-org/sped-docs'
+copyright: 'Copyright (c) 2016 <a href="http://www.nfephp.org/">NFePHP</a>'

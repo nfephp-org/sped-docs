@@ -7,6 +7,7 @@
 .*.un~
 nbproject
 tmp/
+local
 doc/html/
 composer.lock
 vendor
