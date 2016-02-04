@@ -2,9 +2,11 @@ docs_dir: doc/book
 site_dir: doc/html
 pages:
     - index.md
-    - { 'A API': nfephp.md }
+    - { Documentando: documentando.md }
+    - { API: nfephp.md }
     - { Estrutura: estrutura.md }
     - { Iniciando: iniciando.md }
+    - { Configurando: configurando.md }
     - { sped-nfe: [{ Intro: nfe/intro.md }, { Exemplos: nfe/exemplos.md }, { Referencias: nfe/referencias.md }] }
 theme: readthedocs
 site_name: NFePHP
