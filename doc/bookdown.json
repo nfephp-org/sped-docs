@@ -7,7 +7,15 @@
     {"Estrutura": "book/estrutura.md"},
     {"Iniciando": "book/iniciando.md"},
     {"Configurando": "book/configurando.md"},
-    "book/nfe/bookdown.json"
+    "book/nfe/bookdown.json",
+    "book/cte/bookdown.json",
+    "book/mdfe/bookdown.json",
+    "book/cle/bookdown.json",
+    "book/efinanceira/bookdown.json",
+    "book/esocial/bookdown.json",
+    "book/efd/bookdown.json",
+    "book/common/bookdown.json",
+    "book/posprint/bookdown.json"
   ],
   "target": "./html"
 }
