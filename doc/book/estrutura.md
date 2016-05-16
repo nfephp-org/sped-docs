@@ -27,7 +27,7 @@ O sped-nfse contêm as classes principais e arquivos especificos para a operaç�
 
 ## sped-gnre
 
-O sped-gnree contêm as classes principais e arquivos especificos para a operação com GNRE, usando o serviço GNRE de Pernambuco, que serve todas as unidades da federação, exceto SP, RJ e ES, e seu composer.json faz referência ou estabelece dependências de outros pacotes da API.
+O sped-gnre contêm as classes principais e arquivos especificos para a operação com GNRE, usando o serviço GNRE de Pernambuco, que serve todas as unidades da federação, exceto SP, RJ e ES, e seu composer.json faz referência ou estabelece dependências de outros pacotes da API.
 
 ## sped-common
 
@@ -40,6 +40,14 @@ O pacote sped-efd contêm as classes principais para a geração dos arquivos SP
 
 > NOTA: Não existe webservice para essa operação
 
+## sped-efinanceira
+
+O pacote sped-common contêm as classe necessárias para montar os xml dos eventos da eFinanceira e realizar a comunicação com os respsctivos webservices. 
+
+## sped-esocial
+
+O pacote contêm as classes principais para monatr os xml da eSocial e realizar as comunicações com os webservices. 
+ 
 ## sped-console
 
 O pacote sped-console, como o próprio nome diz, fornece uma função para linha de comando que permite a geração de classes "modelo" para cada um dos XML que compõe esses documentos eletrônicos (NFe, CTe, MDFe, etc.).
