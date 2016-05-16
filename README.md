@@ -4,7 +4,7 @@ Inteiramente construído em PHP para rodar sob qualquer sistema operacional.
 
 ** Acompanhe o nosso forum e não deixe de se cadastrar no [grupo de discussão do NFePHP](https://groups.google.com/forum/#!forum/nfephp)! muitas de suas duvidas podem ser resolvida lá.**
 
-## Condicionantes
+## Condicionantes para usar e entender a API
 Para usar essa API é necessário conhecimento em programação PHP, bem como conhecer os padrões atuais da linguagem e ter bases de legislação fiscal. É extremanente recomendável que seja estudado o conteúdo dos seguintes sites.
 
 ### Documentação Oficial do Projeto Sped 
@@ -15,11 +15,12 @@ Para usar essa API é necessário conhecimento em programação PHP, bem como co
 * [Documentação do Funcionamento do sistema GNRE](http://www.gnre.pe.gov.br/gnre/portal/GNRE_Principal.jsp)
 * [Documentação do Funcionamento do sistema eFinanceira](http://sped.rfb.gov.br/projeto/show/1179)
 * [Documentação do Funcionamento do sistema eSocial](http://sped.rfb.gov.br/projeto/show/1048)
+* [Documentação do Funcionamento do sistema EFD ICMS IPI](http://sped.rfb.gov.br/projeto/show/274)
 
 ### Uso da linguagem de programação PHP
 * [Composer Documentação Construção do composer.json](http://composer.json.jolicode.com/)
 * [IMPORTANTE PHP do Jeito Certo](http://br.phptherightway.com/)
-* [Coding Style Guide PSR-2](http://www.php-fig.org/psr/psr-2/pt-br/)
+* [Coding Style Guide PSR-2](http://www.php-fig.org/psr/psr-2/)
 * [Autoload PSR-4](http://www.php-fig.org/psr/psr-4/)
 > NOTA: A NFSe Nota Fiscal de Serviços Eletrônica, não tem padrão único, e a API tem somente alguns exemplos de montagem de um sistema para esse fim, mas nenhuma API realmente funcional para esse tipo de documentos fiscais.
 
