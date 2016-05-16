@@ -3,6 +3,8 @@
   "content": [
     {"Intro": "../README.md"},
     {"Documentando": "book/documentando.md"},
+    {"Cod. Conduta": "book/conduct.md"},
+    {"Contribuindo": "book/contribuing.md"},
     {"API": "book/nfephp.md"},
     {"Estrutura": "book/estrutura.md"},
     {"Iniciando": "book/iniciando.md"},
