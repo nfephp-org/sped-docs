@@ -7,7 +7,17 @@ pages:
     - { Estrutura: estrutura.md }
     - { Iniciando: iniciando.md }
     - { Configurando: configurando.md }
+    - { nfephpv4.0: [{ Intro: nfephp/intro.md }, { Exemplos: nfephp/exemplos.md }, { Referencias: nfephp/referencias.md }] }
     - { sped-nfe: [{ Intro: nfe/intro.md }, { Exemplos: nfe/exemplos.md }, { Referencias: nfe/referencias.md }] }
+    - { sped-cte: [{ Intro: cte/intro.md }, { Exemplos: cte/exemplos.md }, { Referencias: cte/referencias.md }] }
+    - { sped-mdfe: [{ Intro: mdfe/intro.md }, { Exemplos: mdfe/exemplos.md }, { Referencias: mdfe/referencias.md }] }
+    - { sped-cle: [{ Intro: cle/intro.md }, { Exemplos: cle/exemplos.md }, { Referencias: cle/referencias.md }] }
+    - { sped-common: [{ Intro: common/intro.md }, { Exemplos: common/exemplos.md }, { Referencias: common/referencias.md }] }
+    - { sped-efd: [{ Intro: efd/intro.md }, { Exemplos: efd/exemplos.md }, { Referencias: efd/referencias.md }] }
+    - { sped-efinanceira: [{ Intro: efinanceira/intro.md }, { Exemplos: efinanceira/exemplos.md }, { Referencias: efinanceira/referencias.md }] }
+    - { sped-esocial: [{ Intro: esocial/intro.md }, { Exemplos: esocial/exemplos.md }, { Referencias: esocial/referencias.md }] }
+    - { posprint: [{ Intro: posprint/intro.md }, { Exemplos: posprint/exemplos.md }, { Referencias: posprint/referencias.md }] }
+    
 theme: readthedocs
 site_name: NFePHP
 site_description: 'NFePHP: API para comunicação com a SEFAZ, geração e controle dos documentos fiscais estabelecidos pelo Projeto SPED'
