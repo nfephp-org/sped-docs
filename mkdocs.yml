@@ -7,6 +7,8 @@ pages:
     - { Estrutura: estrutura.md }
     - { Iniciando: iniciando.md }
     - { Configurando: configurando.md }
+    - { Código de Conduta: conduct.md }
+    - { Contribuindo: contribuing.md }
     - { nfephpv4.0: [{ Intro: nfephp/intro.md }, { Exemplos: nfephp/exemplos.md }, { Referencias: nfephp/referencias.md }] }
     - { sped-nfe: [{ Intro: nfe/intro.md }, { Exemplos: nfe/exemplos.md }, { Referencias: nfe/referencias.md }] }
     - { sped-cte: [{ Intro: cte/intro.md }, { Exemplos: cte/exemplos.md }, { Referencias: cte/referencias.md }] }
