@@ -4,10 +4,10 @@ Inteiramente construído em PHP para rodar sob qualquer sistema operacional.
 
 ** Acompanhe o nosso forum e não deixe de se cadastrar no [grupo de discussão do NFePHP](https://groups.google.com/forum/#!forum/nfephp)! muitas de suas duvidas podem ser resolvida lá.**
 
-## [Código de Conduta](CONDUCT.md)
+## [Código de Conduta](book/CONDUCT.md)
 Ao desejar contribuir é importante ler nosso código de conduta. Inclusive para aqueles que parcipam do nosso forum.
 
-## [Como Contribuir](CONTRIBUTING.md)
+## [Como Contribuir](book/CONTRIBUTING.md)
 Para contribuir com código também é importante ler o documento acima indicado para saber como proceder.
 
 ## Condicionantes
