@@ -85,7 +85,7 @@ Explicando as variáveis:
 
 - **"atualizacao"** - apenas contê a data e hora da ultima alteração desses dados.
  
-- **"tpAmb"** - tipo de ambiente, sendo 2 homologação e 1 produção. CUIDADO com isso pois se estiver em produção seus dados e qualuqer operação coms as SEFAZ será considerada REAL com implicações FISCAIS.
+- **"tpAmb"** - tipo de ambiente, sendo 2 homologação e 1 produção. CUIDADO com isso pois se estiver em produção seus dados e qualquer operação com a SEFAZ será considerada REAL com implicações FISCAIS.
  
 - **pathXmlUrlFile???"** - aqui são colocados os nomes dos arquivos usados  para acessar as listas de endereçoes dos webservices de cada um dos componentes do SPED, estes arquivos xml são distribuidos junto com a API e estão na pasta "vendor/nfephp-org/sped-nfe/config" ou equivalente, não indique o path completo nesses casos apenas o nome do arquivo.
  
