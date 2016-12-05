@@ -12,7 +12,7 @@ Cada repositório terá duas branches:
 * `<master>` - essa branch contêm as versão de desenvolvimento atual
 * `<develop>`- essa branch contêm a versão seguinte de desenvolvimento
 
-A cada correção ou alteração são ciradas novas TAGs que são numeradas com o seguinte formato:
+A cada correção ou alteração são criadas novas TAGs que são numeradas com o seguinte formato:
 
 `<major>.<minor>.<patch>`
 
